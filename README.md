@@ -1,3 +1,3 @@
 # tester
 
-make .sh files executable with ```chmod u+x judge.sh```
+make .sh files executable with ```chmod u+x file.sh```
